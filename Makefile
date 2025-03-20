@@ -1,0 +1,1 @@
+deploy: wrangler deploy src/src/index.js 
